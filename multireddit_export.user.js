@@ -1,9 +1,10 @@
 // ==UserScript==
-// @name         multireddit_export
-// @namespace    this_is_definitely_unique_because_it_is_a_very_long_string
+// @name         Export & Share Multireddit
+// @namespace    https://github.com/bnkrr/multireddit_export
 // @version      0.1
-// @description  export multireddit to everyone include mobile users.
+// @description  share and export multi-reddit to everyone including mobile users.
 // @author       Bnkr
+// @supportURL   https://github.com/bnkrr/multireddit_export
 // @match        https://www.reddit.com/*/m/*/
 // @grant        none
 // ==/UserScript==
